@@ -28,7 +28,7 @@ Disconnect from running container:
 Ctrl+d or exit
 ```
 
-Save changes from to running container to image:
+Save the changes from the running container to the image:
 ```bash
 docker commit {CONTAINER_ID} htmltoimg
 ```
