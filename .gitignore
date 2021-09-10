@@ -1,0 +1,6 @@
+.vscode
+*.yaml
+docker-compose.debug.yml
+docker-compose.yml
+*.log
+test.py
