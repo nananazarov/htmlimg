@@ -105,6 +105,7 @@ def init():
     except Exception as err:
         print('\n', C.E, 'An error has occured: ', err, '\n', 'Try one more time.' ,'\n')
         logging.error(f'Config file ({err})')
+    print('\n', C.U)
     
 
 
